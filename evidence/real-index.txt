@@ -1,0 +1,53 @@
+Start Menu shortcuts indexed: 145
+Chinese-named shortcuts: 17
+  Riot用戶端	速成=BQ HS YB	倉頡=BQ HS YTUMB	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Riot Games\Riot用戶端.lnk
+  【小狼毫】安裝選項	速成=NC KV YU JV VV YC MC	倉頡=NC KHIAV YRBU JV VGYHV YRUC MMBC	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\小狼毫輸入法\【小狼毫】安裝選項.lnk
+  【小狼毫】檢查新版本	速成=NC KV YU DO DM YL LE DM	倉頡=NC KHIAV YRBU DOMO DAM YDHML LLHE DM	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\小狼毫輸入法\【小狼毫】檢查新版本.lnk
+  【小狼毫】用戶文件夾	速成=NC KV YU BQ HS YK OQ KO	倉頡=NC KHIAV YRBU BQ HS YK OHQ KOO	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\小狼毫輸入法\【小狼毫】用戶文件夾.lnk
+  【小狼毫】用戶詞典管理	速成=NC KV YU BQ HS YR TC HR MG	倉頡=NC KHIAV YRBU BQ HS YRSMR TBC HJRR MGWG	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\小狼毫輸入法\【小狼毫】用戶詞典管理.lnk
+  【小狼毫】用戶資料同步	速成=NC KV YU BQ HS IC FJ BR YH	倉頡=NC KHIAV YRBU BQ HS IOBUC FDYJ BMR YLMH	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\小狼毫輸入法\【小狼毫】用戶資料同步.lnk
+  【小狼毫】程序文件夾	速成=NC KV YU HG IN YK OQ KO	倉頡=NC KHIAV YRBU HDRHG ININ YK OHQ KOO	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\小狼毫輸入法\【小狼毫】程序文件夾.lnk
+  【小狼毫】說明書	速成=NC KV YU YU AB LA	倉頡=NC KHIAV YRBU YRCRU AB LGA	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\小狼毫輸入法\【小狼毫】說明書.lnk
+  【小狼毫】輸入法設定	速成=NC KV YU JN OH EI YE JO	倉頡=NC KHIAV YRBU JJOMN OH EGI YRHNE JMYO	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\小狼毫輸入法\【小狼毫】輸入法設定.lnk
+  【小狼毫】重新部署	速成=NC KV YU HG YL YL WA	倉頡=NC KHIAV YRBU HJWG YDHML YRNL WLJKA	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\小狼毫輸入法\【小狼毫】重新部署.lnk
+  卸載富途牛牛	速成=OL JJ JW YD HQ HQ	倉頡=OMSL JIJWJ JMRW YOMD HQ HQ	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\富途軟件\卸載富途牛牛.lnk
+  卸載小狼毫	速成=OL JJ NC KV YU	倉頡=OMSL JIJWJ NC KHIAV YRBU	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\小狼毫輸入法\卸載小狼毫.lnk
+  富途牛牛	速成=JW YD HQ HQ	倉頡=JMRW YOMD HQ HQ	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\富途軟件\富途牛牛.lnk
+  小狼毫算法服務	速成=NC KV YU HT EI BE NS	倉頡=NC KHIAV YRBU HBUT EGI BSLE NHOKS	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\小狼毫輸入法\小狼毫算法服務.lnk
+  移除 qBittorrent	速成=HN ND	倉頡=HDNIN NLOMD	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\qBittorrent\移除 qBittorrent.lnk
+  聯盟戰棋	速成=ST AT RI DC	倉頡=SJVIT ABBT RJI DTMC	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Riot Games\聯盟戰棋.lnk
+  英雄聯盟	速成=TK KG ST AT	倉頡=TLBK KIOG SJVIT ABBT	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Riot Games\英雄聯盟.lnk
+
+=== query: 'yu jn dm' ===
+  (no matches)
+
+=== query: 'yujndm' ===
+  (no matches)
+
+=== query: 'BQ HS YB' ===
+  [99993] Riot用戶端  (C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Riot Games\Riot用戶端.lnk)
+
+=== query: 'BQHSYB' ===
+  [99993] Riot用戶端  (C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Riot Games\Riot用戶端.lnk)
+
+=== query: 'BQ HS YTUMB' ===
+  [89993] Riot用戶端  (C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Riot Games\Riot用戶端.lnk)
+
+=== query: 'NC KV YU JV VV YC MC' ===
+  [219991] 【小狼毫】安裝選項  (C:\ProgramData\Microsoft\Windows\Start Menu\Programs\小狼毫輸入法\【小狼毫】安裝選項.lnk)
+
+=== query: 'NCKVYUJVVVYCMC' ===
+  [219991] 【小狼毫】安裝選項  (C:\ProgramData\Microsoft\Windows\Start Menu\Programs\小狼毫輸入法\【小狼毫】安裝選項.lnk)
+
+=== query: 'NC KHIAV YRBU JV VGYHV YRUC MMBC' ===
+  [169991] 【小狼毫】安裝選項  (C:\ProgramData\Microsoft\Windows\Start Menu\Programs\小狼毫輸入法\【小狼毫】安裝選項.lnk)
+
+=== query: 'NC KV YU DO DM YL LE DM' ===
+  [249990] 【小狼毫】檢查新版本  (C:\ProgramData\Microsoft\Windows\Start Menu\Programs\小狼毫輸入法\【小狼毫】檢查新版本.lnk)
+
+=== query: 'NCKVYUDODMYLLEDM' ===
+  [249990] 【小狼毫】檢查新版本  (C:\ProgramData\Microsoft\Windows\Start Menu\Programs\小狼毫輸入法\【小狼毫】檢查新版本.lnk)
+
+=== query: 'NC KHIAV YRBU DOMO DAM YDHML LLHE DM' ===
+  [189990] 【小狼毫】檢查新版本  (C:\ProgramData\Microsoft\Windows\Start Menu\Programs\小狼毫輸入法\【小狼毫】檢查新版本.lnk)
+

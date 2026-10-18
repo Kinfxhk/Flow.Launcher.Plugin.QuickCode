@@ -1,0 +1,12 @@
+{
+  "ID": "FAFF0D36-B3CC-4D0D-B898-84086F612C97",
+  "ActionKeyword": "qc",
+  "Name": "QuickCode 速成/倉頡",
+  "Description": "用速成/倉頡碼開啟中文名稱的程式",
+  "Author": "KINFX",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/Kinfxhk/Flow.Launcher.Plugin.QuickCode",
+  "IcoPath": "Images\\icon.png",
+  "ExecuteFileName": "Flow.Launcher.Plugin.QuickCode.dll"
+}
