@@ -1,0 +1,6 @@
+﻿query='qc yu jn dm' notepad_launched=True
+query='qc yujndm' notepad_launched=True
+query='qc yrsu jlln dm' notepad_launched=True
+DONE
+QuickCode enter launched notepad=False
+FlowLog: 03:45:21.1681+08:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <QuickCode 速成/倉頡> is <833ms>

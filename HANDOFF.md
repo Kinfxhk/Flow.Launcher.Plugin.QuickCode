@@ -29,9 +29,9 @@ A Flow Launcher plugin (`qc`) that launches Chinese-named Start Menu programs by
 
 ## NOT verified
 
-- **Loading inside Flow Launcher was not tested** — Flow Launcher is not installed on this PC (per the task, it was not installed). The plugin compiled against the Flow.Launcher.Plugin 5.3.2 SDK and passed offline unit tests, but `InitAsync`/`QueryAsync`/`LoadContextMenus` have never executed inside a running Flow Launcher.
+- Context menu 開啟檔案位置 was not clicked in Flow.
+- `pm install <url>` from the Flow plugin store was not tested (plugin not submitted to the store).
 - UWP/Store app indexing is intentionally absent (not implemented).
-- The zip has not been installed into a live Flow Launcher instance.
 
 ## Known limits
 
@@ -45,3 +45,8 @@ A Flow Launcher plugin (`qc`) that launches Chinese-named Start Menu programs by
 2. ✅ Real check ran on this machine; evidence committed at `evidence/real-index.txt`.
 3. ✅ Everything committed on `main`.
 4. ✅ This file.
+
+
+## Reviewer verification (it-dog)
+
+- KinTest VM, real Flow Launcher 2.1.3: the release zip was unzipped into `%APPDATA%\FlowLauncher\Plugins\QuickCode-1.0.0`; Flow log shows `Total init cost for <QuickCode 速成/倉頡>`. A test shortcut 記事本測試.lnk → notepad was found by `qc yu jn dm`, `qc yujndm` and `qc yrsu jlln dm`; Enter launched Notepad each time. Evidence: `evidence/vm/`.
