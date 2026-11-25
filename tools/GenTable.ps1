@@ -4,14 +4,18 @@
 
   The input file is NOT bundled; the generated cangjie.tsv is committed to the repo.
 
-  Usage:  pwsh -File tools/GenTable.ps1 [-UnihanPath <path>] [-Output <path>]
+  Usage:  pwsh -File tools/GenTable.ps1 -UnihanPath <path> [-Output <path>]
 #>
 param(
-    [string]$UnihanPath = "C:/Users/kinfx/AppData/Local/hermes/profiles/it-dog/cache/scratch/Unihan_DictionaryLikeData.txt",
+    [string]$UnihanPath = "",
     [string]$Output = "src/Flow.Launcher.Plugin.QuickCode/Data/cangjie.tsv"
 )
 
 $ErrorActionPreference = "Stop"
+
+if ([string]::IsNullOrWhiteSpace($UnihanPath)) {
+    throw "UnihanPath is required. Pass -UnihanPath pointing at Unihan_DictionaryLikeData.txt."
+}
 
 if (-not (Test-Path $UnihanPath)) { throw "Input file not found: $UnihanPath" }
 
